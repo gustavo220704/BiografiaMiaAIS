@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Biografía Mia Olazabal</title>
+</head>
+<style>
+th, td {
+  border: 1px solid black;
+  border-radius: 15px;
+}
+th, td {
+  background-color: #B22222;
+}
+
+body {background-color: maroon;}
+h1   {color: black;}
+p    {color: mintcream;}
+h2    {color: papayawhip;}
+p1    {color: blue;}
+p2    {color: #44F9E2;}
+p3    {color: #4465F9;}
+
+
+</style>
+<body> 
+
+<h1 style="text-align:center;">Biografía para Tech</h1>
+<h1 style="text-align:center;">Mia Olazabal</h1>
+
+<img src="pictures/gustavo.jpg" style>
+
+<h2 style="font-size:18px;">Dónde naciste?</h2>
+<p style="font-size:17px;"> Nací en Buenos Aires, Argentina</p>
+
+<h2 style="font-size:18px;"> Cuál es tu fecha de cumpleaños?</h2>
+<p style="font-size:17px;"> El 1 de agosto del 2004 y creo que es una fecha muy cool</p>
+
+<h2 style="font-size:18px;">Cuál es tu flor favorita? Y por qué?</h2>
+<p1 style="font-size:17px;"> Mi flor favorita creo que son los jazmines porque son las flores que hay en la casa de la hermana de mi bisabuela, que tuvo que criar a mi abuela porque su mamá se había muerto. Es una señora muy linda y la quiero mucho, entonces siempre que vamos a Argentina llegamos a su casa y ahí cenamos con toda mi familia siempre.</p1>
+
+<h2 style="font-size:18px;"> Qué cosas te dan miedo?</h2>
+<p2 style="font-size:17px;">Me da mucho miedo la oscuridad porque si no veo nada me siento que alguien me está mirando a mí. También me dan miedo los años impares porque todas las cosas feas de mi vida han pasado en años como el 2015, 2017, 2019, etc.</p2>
+
+<h2 style="font-size:18px;"> Cuál es tu mayor sueño?</h2>
+<p style="font-size:17px;"> Tener un gato con ojos cafés porque los gatos siempre tienen ojos verdes o azules pero me gustan más con ojos oscuros.</p>
+<img src="https://as2.ftcdn.net/v2/jpg/00/13/32/49/1000_F_13324988_7sgWeH51N22gbWVktLAXQMrG7P8XFEhC.jpg">
+
+<h2 style="font-size:18px;"> Cuál es tu primer recuerdo?</h2>
+<p3 style="font-size:17px;"> Mi primer recuerdo en realidad se siente como un sueño, pero definitivamente fue el día que nació mi hermano. Yo tenía 2 años y fui a verlo al hospital. Me acuerdo que tenía mi blusa favorita y le llevé una flor amarilla como regalo por haber nacido jajaja.</p3>
+
+<h2 style="font-size:18px;"> País favorito?</h2>
+<p style="font-size:17px;"> Uyyy, Grecia full. Me iría a vivir allá pero me da full hueva aprender griego, entonces mi sueño es ir a conocer y así. </p>
+
+
+<h2 style="font-size:18px;"> Película favorita?</p>
+<p style="font-size:17px;">Se llama Nocturnal Animals</p>
+
+<img src="https://m.media-amazon.com/images/M/MV5BMTYwMzMwMzgxNl5BMl5BanBnXkFtZTgwMTA0MTUzMDI@._V1_FMjpg_UX1000_.jpg">
+
+<h2 style="font-size:18px;">Qué es algo de lo que te arrepientes?</h2>
+<p style="font-size:17px;">Creo que de haber crecido demasiado rápido en algunos aspectos y de no haberme tomado mi tiempo para ser niña.</p>
+
+
+<h2 style="font-size:18px;">Cuál es tu color favorito?</h2>
+<p style="font-size:17px;">No tengo un color favorito pero creo que el color que mejor me representa es el celeste.</p>
+
+
+<h1 >Horario de Clases</h1>
+
+<div style="text-align:center;">
+
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th>monday</th>
+    <th>tuesday</th>
+    <th>wednesday</th>
+    <th>thursday</th>
+    <th>friday</th>
+  </tr>
+  <tr>
+    <th>8:00</th>
+    <td>historia</td>
+    <td>historia</td>
+    <td>historia</td>
+    <td>psicología</td>
+    <td>asamblea</td>
+  </tr>
+  <tr>
+    <th>9:00</th>
+    <td>precálculo</td>
+    <td>precálculo</td>
+    <td>precálculo</td>
+    <td>precálculo</td>
+    <td>psicología</td>
+  </tr>
+  <tr>
+    <th>10:00</th>
+    <td>química</td>
+    <td>inglés</td>
+    <td>química</td>
+    <td>inglés</td>
+    <td>arte</td>
+  </tr>
+  <tr>
+    <th>11:00</th>
+    <td>química</td>
+    <td>proyectos</td>
+    <td>química</td>
